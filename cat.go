@@ -6,9 +6,10 @@ import (
 	"fmt"
 	"io"
 
-	localopt "github.com/yupsh/cat/opt"
 	yup "github.com/yupsh/framework"
 	"github.com/yupsh/framework/opt"
+
+	localopt "github.com/yupsh/cat/opt"
 )
 
 // Flags represents the configuration options for the cat command
